@@ -1,0 +1,28 @@
+# LJ Code 201 - Day 3
+
+Today I learned how to set up a function -- the structure and syntax.
+
+In lab, I know we got the function working to generate questions
+using the for loop from yesterday, but I'm still not confident that 
+I have everything the way I want it to be. I learned that I code very 
+differently from my lab partner and that it is very frustrating to me
+to try and work with someone who works so differently from me, 
+especially when I want us both to succeed so much. 
+
+I have started feeling a little more confident in my ability to use
+most of the required tools, including the terminal and the terminal
+commands, including git status, ACP, and navigating up and down the 
+file structure/tree.  I am still not sure my file structure works as
+intended because I think I set things up initially differently than 
+best practice.  I'm getting better, but this is something else to practice.
+
+Got my CSS file looking a little better instead of the dumpster fire that
+my webpage looked like yesterday.  Figured out more about how to use the 
+<div> and <p> elements to set up appropriate white space and it will 
+continue to improve.  
+
+I took tonight off from the js file because I needed to focus my energy
+elsewhere and let my mind try and sort out a solution on the back burner.
+I think I'm very close to that solution, but the frustration from this
+afternoon is still very much top of mind and I'm concerned that I will 
+make a huge error on code that is, at the very least, still functional.
